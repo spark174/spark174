@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Sean Park
+### Welcome to my Github! My name is Sean Park
 #### Aspiring Data Scientist
 
-I'm Sean Park, a Business Analytics Masters student at Carnegie Mellon University, with a strong foundation in Applied Mathematics and Statistics from Johns Hopkins University. My technical prowess is rooted in programming languages like Python, SQL, R, and Java, complemented by my proficiency in data science and finance. Professionally, I've honed my skills as a Data Analyst at Cambridge Associates, where I managed data cleanup initiatives and innovated by automating processes using Python API and AWS. My experience also includes machine learning algorithm development during my tenure as a Summer Analyst in Seoul, Korea. With a passion for data-driven decision making and a knack for innovative problem-solving, I am poised to contribute significantly in the field of data science.
+I'm Sean Park, a Business Analytics Masters student at Carnegie Mellon University, with a strong foundation in Applied Mathematics and Statistics from Johns Hopkins University. My technical prowess is rooted in programming languages like Python, SQL, R, and Java, complemented by my proficiency in data science and finance. Professionally, I've honed my skills as a Data Analyst at Cambridge Associates, where I managed data cleanup initiatives and innovated by automating processes using Python API and AWS. My experience also includes machine learning algorithm development during my tenure as a Summer Analyst in Seoul, Korea. With a passion for data-driven decision making and a knack for innovative problem-solving, I am poised to contribute significantly in the field of data science!
 
 Skills: Python / R / SQL / Tableau
 
